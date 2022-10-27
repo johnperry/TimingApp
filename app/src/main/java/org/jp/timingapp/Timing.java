@@ -15,7 +15,7 @@ import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
 
-public class TimingApp extends AppCompatActivity implements SensorEventListener {
+public class Timing extends AppCompatActivity implements SensorEventListener {
 
     private TimingView timingView = null;
     private SensorManager sensorManager = null;
